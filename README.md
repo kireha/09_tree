@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp-2018/09_tree.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp-2018/09_tree)
+[![Build Status](https://travis-ci.org/kireha/09_tree.svg?branch=master)](https://travis-ci.org/kireha/09_tree)
 
 # 今回の問題
 
